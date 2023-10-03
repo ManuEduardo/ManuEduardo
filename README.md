@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ManuEduardo and I´m a engineer student.
+- 👋 Hi, I’m @ManuEduardo and I´m a engineer software.
 - 👀 I’m interested in learn about development. 
-- 🌱 I’m currently learning java and javascript.
-- 💞️ I’m looking to collaborate on (---)
+- 🌱 I’m currently improvent my technical skills.
+- 💞️ I’m looking to collaborate on innovate projects
 - 📫 How to reach me (---)
 
 <!---
